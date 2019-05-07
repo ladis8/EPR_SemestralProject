@@ -1,0 +1,8 @@
+stm32l073z_eval.c:246:10:BSP_GetVersion	8	static
+stm32l073z_eval.c:265:6:BSP_LED_Init	56	static
+stm32l073z_eval.c:293:6:BSP_LED_On	16	static
+stm32l073z_eval.c:308:6:BSP_LED_Off	16	static
+stm32l073z_eval.c:323:6:BSP_LED_Toggle	16	static
+stm32l073z_eval.c:340:6:BSP_PB_Init	40	static
+stm32l073z_eval.c:378:10:BSP_PB_GetState	16	static
+stm32l073z_eval.c:488:6:BSP_COM_Init	48	static

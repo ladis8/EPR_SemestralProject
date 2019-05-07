@@ -1,0 +1,7 @@
+stm32l073z_eval_io.c:140:9:BSP_IO_Init	16	static
+stm32l073z_eval_io.c:170:10:BSP_IO_ITGetStatus	16	static
+stm32l073z_eval_io.c:181:6:BSP_IO_ITClear	8	static
+stm32l073z_eval_io.c:217:9:BSP_IO_ConfigPin	16	static
+stm32l073z_eval_io.c:232:6:BSP_IO_WritePin	16	static
+stm32l073z_eval_io.c:244:10:BSP_IO_ReadPin	16	static
+stm32l073z_eval_io.c:255:6:BSP_IO_TogglePin	16	static
